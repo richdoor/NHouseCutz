@@ -72,8 +72,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:title", content: "N House Cutz — Master Barbershop in Las Vegas | Fades, Beards, Designs" },
       { name: "twitter:description", content: "N House Cutz is a top-rated barbershop on Rancho Dr in Las Vegas. Precision fades, beard sculpting and hair designs. 4.8 stars, 133 reviews. Book your chair." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/799db9fb-cd0f-45fd-83c3-6669dd6e24fc/id-preview-db6a148b--3ed7d38a-9e4e-4973-bf09-a9c41e4cbef9.lovable.app-1782956703520.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/799db9fb-cd0f-45fd-83c3-6669dd6e24fc/id-preview-db6a148b--3ed7d38a-9e4e-4973-bf09-a9c41e4cbef9.lovable.app-1782956703520.png" },
+      { property: "og:image", content: "" },
+      { name: "twitter:image", content: "" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
